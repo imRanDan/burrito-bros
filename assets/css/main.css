@@ -1292,6 +1292,14 @@ input, select, textarea {
 			border-radius: 100%;
 		}
 
+		.logo img {
+			width: 4em;
+			margin-top: 0.7em;
+		}
+
+		
+		
+
 			#header .logo .icon:before {
 				font-size: 2rem;
 			}
